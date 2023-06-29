@@ -8,12 +8,12 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^9.5.1",
+    "cypress": "^9.7.0",
     "eslint": "^8.10.0",
     "eslint-plugin-cypress": "^2.12.1",
-    "eslint-plugin-react": "^7.29.2",
-    "less": "^4.1.2",
-    "parcel-bundler": "^1.12.4"
+    "eslint-plugin-react": "^7.25.3",
+    "less": "^3.11.1",
+    "parcel-bundler": "^1.5.1"
   },
   "dependencies": {
     "prop-types": "^15.8.1",
@@ -29,5 +29,7 @@
   "bugs": {
     "url": "https://github.com/BloomInstituteOfTechnology/react-stateful-widgets/issues"
   },
-  "homepage": "https://github.com/BloomInstituteOfTechnology/react-stateful-widgets#readme"
+  "homepage": "https://github.com/BloomInstituteOfTechnology/react-stateful-widgets#readme",
+  "description": "This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored React components and component state. During the module, you studied what React is, what React components are and how to build them, what state is and how to make a component stateful, and how to update component state with click handlers. In this project you will demonstrate proficiency of these subjects and principles by fleshing out several stateful components.",
+  "main": "index.js"
 }
